@@ -9,17 +9,20 @@ profile:
   image: photo.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>tg: @tankoroleva</p>
+    <p>tanella23@gmail.com</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Tatyana Koroleva. I am a Data Scientist and a Deep Learning Engineer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Extensive experience in using deep learning models to solve NLP problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Graduate of Yandex Practicum, graduate of MIPT Deep learning school.
+
+I like working with data, experimenting, trying different approaches to training ML models.
+
+Technologies used: python, transformers, sklearn, pytorch, numpy, huggingface, langchain, BERT, whisper, various language models
