@@ -6,7 +6,7 @@
     "email": "tanella23@gmail.com",
     "phone": "",
     "url": "https://tasvil.github.io/",
-    "summary": "LLM llover",
+    "summary": "LLM LLover",
     "location": {
       "city": "Moscow",
       "countryCode": "RU"
@@ -14,7 +14,7 @@
     "profiles": [
       {
         "network": "Telegram",
-        "username": "tasvil",
+        "username": "tankoroleva",
         "url": "https://t.me/tankoroleva"
       }
     ]
@@ -30,7 +30,19 @@
         "Develop pipelines for solving product cases using large language models",
         "Come up with and test ML hypotheses to improve NLP pipeline",
         "Interact with the production team on the implementation of developed tools"]
-    }
+    },
+    {
+      "name": "Roborop",
+      "position": "Prompt Engineer",
+      "url": "roborop.ai",
+      "startDate": "2023-10-01",
+      "endDate": "2023-12-01",
+      "summary": "Project work. As a result of the project, more than 80% of the language model responses matched the assessors' assessments.",
+      "highlights": [
+        "Creation, testing and optimization of prompts for ChatGPT 3.5 and ChatGPT 4.0",
+        "Analysis and interpretation of results",
+        "Project management, team coordination (prompt engineer and backend developer)"]
+    }    
   ],
   "volunteer": [
     {
@@ -43,18 +55,44 @@
   ],
   "education": [
     {
+      "institution": "Deep Learning School MIPT",
+      "location": "Moscow",
+      "url": "https://dls.samcs.ru/",
+      "area": "Deep Learning",
+      "studyType": "professional course",
+      "startDate": "2023-09",
+      "endDate": "2023-12",
+      "courses": ["Computer Vision", "NLP"]
+    },    
+    {
+      "institution": "Yandex Practicum",
+      "location": "Moscow",
+      "area": "Machine Learning",
+      "studyType": "professional retraining",
+      "startDate": "2023-02",
+      "endDate": "2023-09",
+      "courses": ["Data Science Specialist"]
+    },    
+    
+    {
       "institution": "Higher School of Economics",
       "location": "Moscow",
-      "area": "Software Development",
+      "area": "Integrated communications",
       "studyType": "Master degree",
       "startDate": "2014-09",
       "endDate": "2016-07"
+    },
+    {
+      "institution": "Tver State University",
+      "location": "Tver",
+      "area": "Management and Sociology",
+      "endDate": "2014-07"
     }
   ],
   "awards": [
     {
-      "title": "Potanin Scholarship Recipient",
-      "date": "2013"
+      "title": "Digital Transformation Leaders Hackathon Prize Winner, 3rd place",
+      "date": "2024"
 }
   ],
   "certificates": [
@@ -76,7 +114,7 @@
       "studyType": "professional course",
       "startDate": "2023-09",
       "endDate": "2023-12",
-      "courses": ["Computer Vision"]
+      "courses": ["Computer Vision", "NLP"]
     }
   ],
 
@@ -85,17 +123,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
