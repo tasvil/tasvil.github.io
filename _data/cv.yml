@@ -2,45 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tatyana Korolyova
     - name: Date of Birth
-      value: 14th March 1879
+      value: 23th March
     - name: Languages
-      value: English, German
+      value: English, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master degree
+      institution: Higher School of Economics, Moscow
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Integrated communications
+
     - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      institution: Tver State University
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Faculty of Management and Sociology
+        - Public Relations
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Scientist (LLM)
+      institution: Programmnyi Product
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Study new technologies and tools in the field of NLP and LLM (incl. RAG and function calling).
+        - Develop pipelines for solving product cases using large language models
+        - Come up with and test ML hypotheses to improve NLP pipeline
+        - Interact with the production team on the implementation of developed tools
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
