@@ -44,7 +44,7 @@
         "Project management, team coordination (prompt engineer and backend developer)"]
     }    
   ],
-  "technologies": [
+  "skills": [
     {
       "name": "Deep Learning",
       "keywords": ["PyTorch", "HuggingFace", "autoencoders", "UNet", "YOLO"]
@@ -107,7 +107,7 @@
     {
       "title": "X5 Tech AI Hack, NER & masking, 4rd place",
       "date": "2024"
-},
+}
   ],
   "volunteer": [
     {
