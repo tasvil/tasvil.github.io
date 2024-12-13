@@ -6,3 +6,5 @@ repo_description_lines_max: 2
 github_repos:
   - tasvil/repetit_ru_orders
   - tasvil/lct2024-task16
+  - tasvil/cognitive_distortion_bot
+  - tasvil/speech_processing
