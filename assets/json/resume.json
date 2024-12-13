@@ -44,7 +44,7 @@
         "Project management, team coordination (prompt engineer and backend developer)"]
     }    
   ],
-    "technologies": [
+  "technologies": [
     {
       "name": "Deep Learning",
       "keywords": ["PyTorch", "HuggingFace", "autoencoders", "UNet", "YOLO"]
