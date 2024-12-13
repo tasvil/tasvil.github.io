@@ -17,12 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Tatyana Koroleva. I am a Data Scientist and a Deep Learning Engineer.
+My name is Tatyana Korolyova. I am a Data Scientist and a Deep Learning Engineer.
 
 Extensive experience in using deep learning models to solve NLP problems.
 
 Graduate of Yandex Practicum, graduate of MIPT Deep learning school.
 
-I like working with data, experimenting, trying different approaches to training ML models.
+I like working with data, experimenting, trying different approaches to use ML models.
 
 Technologies used: python, transformers, sklearn, pytorch, numpy, huggingface, langchain, BERT, whisper, various language models
