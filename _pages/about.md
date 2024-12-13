@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: DL Engineer
 
 profile:
   align: right
