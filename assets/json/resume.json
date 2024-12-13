@@ -95,6 +95,7 @@
       "institution": "Tver State University",
       "location": "Tver",
       "area": "Management and Sociology",
+      "startDate": "2010-09",
       "endDate": "2014-07"
     }
   ],
@@ -112,7 +113,7 @@
     {
       "organization": "Sobirator",
       "location": "Moscow",
-      "position": "volontier",
+      "position": "volonteer",
       "startDate": "2021-04-01",
       "summary": "Participate in campaigns to sort recyclable materials"
 }
